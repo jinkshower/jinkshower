@@ -18,4 +18,4 @@
 
 
 #### 📮 Channel
-<a href="https://jinkshower.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF7200?style=for-the-badge&logo=bloglovin&logoColor=white"/></a>
+기술블로그 [Hiyen](https://jinkshower.github.io/)
