@@ -1,5 +1,5 @@
 #### 🗂️ Projects 
-- [티키텍킹](https://github.com/lay-down-coding/tickitecking) - 콘서트 티켓 예매 서비스, 티키텍킹
+- [티키텍킹](https://github.com/lay-down-coding/tickitecking) 콘서트 티켓 예매 서비스, 티키텍킹
 
 #### 🔨 Skills
 Languages: Java
