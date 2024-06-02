@@ -2,11 +2,11 @@
 - [티키텍킹](https://github.com/lay-down-coding/tickitecking) 콘서트 티켓 예매 서비스
 
 #### 🔨 Skills
-Languages: Java
-Back-End: Spring Framework, Spring Data JPA, Junit5
-Database: MySQL
-DevOps: AWS EC2, Github Actions
-ETC: Git, Github, IntelliJ, Slack, Notion
+Languages: Java  
+Back-End: Spring Framework, Spring Data JPA, Junit5  
+Database: MySQL  
+DevOps: AWS EC2, Github Actions  
+ETC: Git, Github, IntelliJ, Slack, Notion  
 
 
 #### 📞 Contact
