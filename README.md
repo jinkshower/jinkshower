@@ -1,5 +1,7 @@
 #### 🗂️ Projects 
 - [티키텍킹](https://github.com/lay-down-coding/tickitecking) 콘서트 티켓 예매 서비스
+- [Todo Management](https://github.com/jinkshower/Todo-management) 할일 관리 백엔드 서버
+- [Block Hero](https://github.com/jinkshower/BlockHero) 2D 퍼즐 게임
 
 #### 🔨 Skills
 Languages: Java  
