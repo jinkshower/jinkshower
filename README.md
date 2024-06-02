@@ -5,7 +5,7 @@
 
 #### 🔨 Skills
 - Languages: Java  
-- Back-End: Spring Framework, Spring Data JPA, Junit5  
+- Backend: Spring Framework, Spring Data JPA, Junit5  
 - Database: MySQL  
 - DevOps: AWS EC2, Github Actions  
 - ETC: Git, Github, IntelliJ, Slack, Notion  
