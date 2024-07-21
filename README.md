@@ -14,8 +14,5 @@
 #### 📞 Contact
 ***Email.*** [iht611627@gmail.com](iht611627@gmail.com) &nbsp;
 
-***Resume.*** [https://jinkshower.notion.site](https://jinkshower.notion.site/b0df1f260fc4495595d164db0f03cdb9)
-
-
 #### 📮 Channel
 기술블로그 [Hiyen](https://jinkshower.github.io/)
