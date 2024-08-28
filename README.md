@@ -1,4 +1,4 @@
-Hand-crafted Software.
+Hand-crafted Software.  
 Building sand castles every day.
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jinkshower.github.io/)](https://jinkshower.github.io/)
@@ -20,5 +20,6 @@ Building sand castles every day.
 
 #### Study
 
-- [Daily-Algorithm](https://github.com/jinkshower/Daily-Algorithms) 문제를 분석하고 요구사항에 맞는 자료구조와 알고리즘을 선정하는 사고 과정을 체계적으로 기록합니다.
+- [Daily-Algorithm](https://github.com/jinkshower/Daily-Algorithms)
+문제를 분석하고 요구사항에 맞는 자료구조와 알고리즘을 선정하는 사고 과정을 체계적으로 기록합니다.
 
