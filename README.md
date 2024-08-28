@@ -21,5 +21,4 @@ Building sand castles every day.
 #### Study
 
 - [Daily-Algorithm](https://github.com/jinkshower/Daily-Algorithms) 문제를 분석하고 요구사항에 맞는 자료구조와 알고리즘을 선정하는 사고 과정을 체계적으로 기록합니다.
-- [Crude But useful](https://github.com/jinkshower/crude-but-useful) 직접 만든 작지만 유용한 프로그램들입니다.
 
