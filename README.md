@@ -25,4 +25,12 @@ Building sand castles every day.
 
 #### Open Source Contribution
 
-- spring-data-redis : [Add overloads for XAddOptions in StreamOperations](https://github.com/spring-projects/spring-data-redis/pull/2936)
+- spring-data-redis
+
+[Add overloads for XAddOptions in StreamOperations](https://github.com/spring-projects/spring-data-redis/pull/2936)
+
+[Negative maxlen for XAddOptions is ignored](https://github.com/spring-projects/spring-data-redis/issues/2982)
+
+- redis-lettuce
+
+[Add defensive copy for Futures allOf() method](https://github.com/redis/lettuce/pull/2943)
