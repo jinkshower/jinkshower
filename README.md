@@ -29,7 +29,7 @@ Building sand castles every day.
 
 [Add overloads for XAddOptions in StreamOperations](https://github.com/spring-projects/spring-data-redis/pull/2936)
 
-[Negative maxlen for XAddOptions is ignored](https://github.com/spring-projects/spring-data-redis/issues/2982)
+[Negative maxlen for XAddOptions is ignored](https://github.com/spring-projects/spring-data-redis/pull/2985) [Issue](https://github.com/spring-projects/spring-data-redis/issues/2982)
 
 - redis-lettuce
 
