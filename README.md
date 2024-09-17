@@ -13,10 +13,8 @@ Building sand castles every day.
 #### Skills
 
 - Languages: Java
-- Backend: Spring Framework, Spring Data JPA, Junit5
+- Backend: Spring MVC, Spring Data JPA
 - Database: MySQL
-- DevOps: AWS EC2, Github Actions
-- ETC: Git, Github, IntelliJ, Slack, Notion
 
 #### Study
 
