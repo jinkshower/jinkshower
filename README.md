@@ -7,7 +7,6 @@ Building sand castles every day.
 #### Projects
 
 - [갈만해?](https://github.com/jinkshower/galmanhae) 서울 주요 장소의 외출 적합도를 제공하는 지도 서비스
-- [티키텍킹](https://github.com/lay-down-coding/tickitecking) 콘서트 티켓 예매 서비스
 - [Block Hero](https://github.com/jinkshower/BlockHero) 2D 퍼즐 게임
 
 #### Skills
@@ -15,11 +14,6 @@ Building sand castles every day.
 - Languages: Java
 - Backend: Spring MVC, Spring Data JPA
 - Database: MySQL
-
-#### Study
-
-- [Daily-Algorithm](https://github.com/jinkshower/Daily-Algorithms)  
-문제를 분석하고 요구사항에 맞는 자료구조와 알고리즘을 선정하는 사고 과정을 체계적으로 기록합니다.
 
 #### Open Source Contribution
 
